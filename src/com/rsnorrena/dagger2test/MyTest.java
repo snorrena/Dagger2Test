@@ -6,6 +6,7 @@ import org.junit.Test;
 public class MyTest {
 	
 	//this comment was added in the feature branch
+	//anothe comment added in the feature branch
 	
 	@Test
 	public void dependencyInjectionTest() {
